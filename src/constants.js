@@ -10,7 +10,7 @@ export const dialogueData = {
   <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
   resume: `My resume website is under development.`,
-  projects: `Working on multiple projects soon, I will list them here.`,
+  projects: `PokePixel: Browser-based pokemon game. https://pokemon-p5.vercel.app/`,
   library: `There are a lot of programming books and self help on my shelves.
   I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
   exit: `If you want to exit Yahiya portfolio, just close the tab.`,
